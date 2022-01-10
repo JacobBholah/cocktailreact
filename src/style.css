@@ -1,0 +1,55 @@
+body{
+  background: url("https://images.pexels.com/photos/1283219/pexels-photo-1283219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") ;
+}
+#header{
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  /*background-color: white;*/
+  color: white;
+}
+
+.links {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  overflow: hidden;
+  /*background-color: #00a8ff;*/
+}
+.links a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.links a:hover {
+  background-color: #424242;
+  color: white;
+}
+#alcoholic{
+  color: white;
+}
+#non-alcoholic{
+  color: white;
+}
+p{
+  color: white;
+}
+#glasses{
+  color: white;
+}
+#tools{
+  color: white;
+}
+p{
+  color: white;
+}
+#cocktails{
+  color: white;
+}
